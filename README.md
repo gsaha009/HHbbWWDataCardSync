@@ -20,5 +20,5 @@ python syncthemall.py <args>
 --syncHistograms   :: make ratio plots for sync	
 ```
 ```
-python syncthemall.py --exeJson VarHistFile.json --era 2016 --inFile syncthemall.json --makePreSyncFiles --syncHistograms
+python syncthemall.py --exeJson VarHistFile.json --era 2016 --inFile syncthemall.json --bambooOut SL_BDT/results --talinnDir TalinnRootFiles --uclDir UclRootFiles --makePreSyncFiles --syncHistograms
 ```
